@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/CNCF-Lahore/NodejsApp
+    repoURL: https://github.com/CNCF-Lahore/Sandbox-Example-Projects
     targetRevision: HEAD
     path: nodejsapp
   destination:
